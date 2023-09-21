@@ -1,0 +1,17 @@
+.brand-logo{
+    text-align: right;
+  }
+#user
+{
+  padding-top: 100px;
+  color:black;
+  font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navnav{
+  background-color: rgb(31, 8, 132);
+
+}
+.brand-logo{
+  font-family: cursive;
+}
