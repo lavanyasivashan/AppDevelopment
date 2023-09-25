@@ -1,0 +1,29 @@
+.privacy-policy {
+  
+    height:110vh;
+   background-repeat: no-repeat;
+    background-size: cover;
+  background-image: url('../Asset/lk.jpeg');
+  
+    max-width: 2000px;
+    margin: 0;
+
+      
+    background-repeat: no-repeat;
+    background-size: cover;
+  transform: translateY(100px);
+  max-width: 2000px; /* Set a maximum width for the page container */
+margin: 0 auto; /* Center the page horizontally */
+padding: 20px;
+  }
+  
+  h1 {
+    
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .w{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+  }
