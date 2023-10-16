@@ -1,0 +1,13 @@
+.image-container {
+  position: relative;
+  width: 370px; /* Adjust as needed */
+  height: 300px; /* Adjust as needed */
+  object-fit: cover;
+}
+
+.moving-image {
+  position: relative;
+  width: 1000px; /* Adjust as needed */
+  height: 300px;
+  
+}

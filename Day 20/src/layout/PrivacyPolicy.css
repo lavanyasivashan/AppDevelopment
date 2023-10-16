@@ -1,0 +1,31 @@
+.privacy-policy {
+  background-image: url('../Asset/p4.jpg');;
+  background-repeat: no-repeat;
+   background-size: cover;
+    height:165vh;
+   background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+    max-width: 2000px;
+    margin: 0;
+
+      
+    background-repeat: no-repeat;
+    background-size: cover;
+  transform: translateY(100px);
+  max-width: 2000px; /* Set a maximum width for the page container */
+margin: 0 auto; /* Center the page horizontally */
+
+  }
+  
+  h1 {
+    
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .w{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }

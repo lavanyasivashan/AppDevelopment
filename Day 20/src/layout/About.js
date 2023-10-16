@@ -1,0 +1,19 @@
+
+import React from 'react';
+import './About.css';
+import Move from './Move';
+import { Link } from 'react-router-dom';
+const About = () => {
+  return (
+    <div id='hi'> 
+    <div className="rectangle2">
+    <div className="heading2">ABOUT US</div>
+    </div><br/>
+      <div className='h'>Welcome to our company's "About Us" page. Here, you can learn more about our mission. VehicleCare Reinventing the automotive space, VehicleCare is one of the fastest-growing online platforms for auto service and damage repair. Our digitized solution extends the reach of our quick and easy processes to both business and consumer markets, and with a deft management system of damage assessment and repair, our model has helped numerous car owners, fleet owners, manufacturers, insurance brokers, and insurers enhance customer satisfaction, eliminate redundancies in the time cycle, and easily compare, assess, and find the best offer on their vehicle's repair damage.</div>
+      <br/><Move/></div>
+   
+   
+  );
+};
+
+export default About;
